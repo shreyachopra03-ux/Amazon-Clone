@@ -1,5 +1,4 @@
 
-
 #  Amazon Clone – Responsive Frontend Website
 
 ~ This is a responsive clone of Amazon's landing page built using pure HTML and CSS. 
